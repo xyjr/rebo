@@ -1,3 +1,5 @@
 热博
 
 热博是一个智能的新浪微博web客户端。
+
+tornado+redis+mysql+websocket+numpy
